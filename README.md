@@ -1,4 +1,4 @@
-# ContourFinder
+# Contour & Shadow Detection
 
 ## Description
 A Python tool using OpenCV to detect and draw contours and centers of objects in an image. It allows real-time parameter adjustments for kernel size, HSV thresholds, and dilation/erosion iterations through interactive trackbars.
