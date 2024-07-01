@@ -8,3 +8,11 @@ A Python tool using OpenCV to detect and draw contours and centers of objects in
 - Detects and draws contours and their centers
 - Uses HSV color space for better thresholding
 - Applies Gaussian blur and morphological transformations
+
+## Before and After
+
+### Original Image
+![Original Image](images/blocks.jpg)
+
+### Processed Image
+![Processed Image](images/output.jpg)
