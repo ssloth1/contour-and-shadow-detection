@@ -15,4 +15,4 @@ A Python tool using OpenCV to detect and draw contours and centers of objects in
 ![Original Image](images/blocks.JPG)
 
 ### Processed Image
-![Processed Image](images/output.jpg)
+![Processed Image]()
